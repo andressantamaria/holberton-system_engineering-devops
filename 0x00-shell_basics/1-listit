@@ -1,2 +1,3 @@
 #!/bin/bash
-echo $ls -1
+resultado=$(ls-1)
+echo resultado
